@@ -1,3 +1,5 @@
+[![Status](https://img.shields.io/badge/Status-Working-brightgreen?style=flat-square)](https://discord.gg/HbvVzhsHzj)
+
 # [DISCORD](https://discord.gg/ZdhRptnr8R)
 # NFHS WARE | NFHS CERTIFICATION HELPER
 
@@ -50,3 +52,4 @@ This script enhances the NFHS Learn website by automating some interactions and 
 ## License
 
 This script is provided for personal use and educational purposes. Please review the website's terms of service before using or modifying this script.
+
