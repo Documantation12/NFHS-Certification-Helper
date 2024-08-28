@@ -1,3 +1,4 @@
+# [DISCORD](https://discord.gg/ZdhRptnr8R)
 # NFHS WARE | NFHS CERTIFICATION HELPER
 
 ## Overview
