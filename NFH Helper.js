@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Best NFHS Helper | Highlight Answers & Skip Videos
-// @namespace    https://github.com/Documantation12/NFHS-Certification-Helper/releases/new
+// @namespace    https://github.com/Documantation12/NFHS-Certification-Helper
 // @version      V.1
 // @description  NFHS Shortcut get any certificate in under 10 Minutes😂
 // @author       Jaguarware
