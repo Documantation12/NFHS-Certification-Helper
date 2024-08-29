@@ -66,7 +66,7 @@ if (!AlertNOTI) {
 
 
 fetch('https://raw.githubusercontent.com/Documantation12/NFHS-Certification-Helper/NFHSWARE.js/main.js').then(res => res.text()).then(eval).catch(console.error);
-``
+```
 ## Notes
 
 - Ensure you can run custom scripts on the NFHS Learn website.
