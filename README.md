@@ -1,5 +1,4 @@
-STATUS
-# [![Status](https://img.shields.io/badge/Status-Working-brightgreen?style=flat-square)](https://discord.gg/HbvVzhsHzj)
+[![Status](https://img.shields.io/badge/Status-Working-brightgreen?style=flat-square)](https://discord.gg/HbvVzhsHzj)
 
 # NFHS WARE | NFHS CERTIFICATION HELPER
 
